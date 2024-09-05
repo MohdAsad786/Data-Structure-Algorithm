@@ -1,6 +1,5 @@
 package JavaPrograms;
 
-import Dsa_Questions.ExchangeRate;
 
 import java.util.Scanner;
 
